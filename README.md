@@ -2,7 +2,7 @@
 
 single page app che permette di vedere la posizione della iss, se si clicca sulla mappa vengono riportate le date e il meteo dei futuri passaggi sopra quel punto
 
-errori:\
+errori conosciuti:\
 -l'api del meteo non funziona al primo click\
 -all'api della iss non piacciono i poli\
 
