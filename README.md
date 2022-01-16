@@ -4,12 +4,12 @@ single page app che permette di vedere la posizione della iss, se si clicca sull
 
 errori conosciuti:\
 -l'api del meteo non funziona al primo click\
--all'api della iss non piacciono i poli\
+-all'api della iss non piacciono i poli
 
 framework/librerie utilizzati:\
 -jquery\
 -react\
--leaflet\
+-leaflet
 
 ### `npm start`
 
