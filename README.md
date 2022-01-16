@@ -6,6 +6,11 @@ errori conosciuti:\
 -l'api del meteo non funziona al primo click\
 -all'api della iss non piacciono i poli\
 
+framework/librerie utilizzati:\
+-jquery\
+-react\
+-leaflet\
+
 ### `npm start`
 
 Runs the app in the development mode.\
